@@ -12,7 +12,7 @@
     "@tailwindcss/aspect-ratio": "^0.4.0",
     "@tailwindcss/forms": "^0.5.9",
     "@tailwindcss/typography": "^0.5.15",
-    "autoprefixer": "^10.4.20",
+    "autoprefixer": "^10.4.21",
     "chokidar": "^4.0.3",
     "clipboard": "^2.0.8",
     "esbuild": "^0.25.11",
