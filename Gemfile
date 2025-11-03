@@ -16,7 +16,7 @@ gem "pg"
 gem "puma", "~> 6.0"
 
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
-gem "turbo-rails", "~> 2.0.3"
+gem "turbo-rails", "~> 2.0.20"
 
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails", "~> 1.0", ">= 1.0.2"
